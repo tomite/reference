@@ -1,0 +1,15 @@
+コマンドラインツールの使い方
+
+$ javac ファイル名
+$ java クラス名
+
+コンパイルする
+$ javac Sample.java
+
+Javacコマンドの実行に成功すると、ソースファイルと同じディレクトリにSample.classというファイルが作成される
+
+プログラムを実行する
+$ java Sample
+
+これでSampleクラスのmainメソッドが実行される。
+
