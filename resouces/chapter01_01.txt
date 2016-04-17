@@ -1,0 +1,29 @@
+各バージョンの概要
+
+各バージョンの追加機能
+◆Java5
+・ジェネリクス
+・オートボクシング・アンボクシング
+・enum型
+・拡張for文
+・Concurrency Utilities
+
+◆Java6
+・AWT、Swingの高速化
+・JDBC 4.0
+・性能改善
+・Concurrency Utilitiesの強化
+
+◆Java7
+・NIO2
+・Fork/Joinフレームワーク
+・try-with-resources
+・ダイアモンド記法
+・例外のマルチキャッチ
+
+◆Java8
+・ラムダ記法
+・メソッド参照
+・Stream API
+・インターフェースのデフォルトメソッド
+・新Time API
